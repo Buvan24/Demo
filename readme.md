@@ -7,4 +7,4 @@ conflicts iruku
 main-> new-bug
 
 resolove conflicts
-new-bug -> main
+new-bug -> 
